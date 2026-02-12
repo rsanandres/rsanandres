@@ -16,13 +16,13 @@ I like building things end-to-end — from multi-agent RAG pipelines to custom K
 
 ### Stack
 
-**Languages**&ensp; `Python` `Go` `TypeScript` `SQL` `C++`
+**Languages**&ensp; `Python` `Go` `TypeScript` `GDScript` `SQL` `C++`
 
-**ML / AI**&ensp; `PyTorch` `XGBoost` `LangGraph` `LangChain` `Hugging Face` `Ollama` `Ray`
+**ML / AI**&ensp; `PyTorch` `XGBoost` `LangGraph` `LangChain` `Hugging Face` `Ollama` `MCP` `Ray`
 
-**Infrastructure**&ensp; `Kubernetes` `Docker` `SLURM` `AWS` `Helm` `Prometheus` `Grafana`
+**Infrastructure**&ensp; `Kubernetes` `Kubebuilder` `Docker` `SLURM` `AWS` `DynamoDB` `Helm` `Prometheus` `Grafana`
 
-**Web**&ensp; `FastAPI` `Next.js` `React` `PostgreSQL` `pgvector`
+**Web**&ensp; `FastAPI` `Next.js` `React` `Chart.js` `PostgreSQL` `pgvector`
 
 ### Links
 
