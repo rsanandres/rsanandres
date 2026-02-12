@@ -1,6 +1,6 @@
 ## Hey, I'm Raph
 
-ML engineer building clinical AI systems and full-stack intelligent infrastructure. Previously at [Weights & Biases](https://wandb.ai).
+ML infrastructure and AI systems engineer. Currently supporting GPU clusters (H100s) on Kubernetes at a stealth datacenter company. Previously at [Weights & Biases](https://wandb.ai).
 
 ### What I'm working on
 
