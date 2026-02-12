@@ -1,6 +1,6 @@
 ## Hey, I'm Raph
 
-ML infrastructure and AI systems engineer. Currently supporting GPU clusters (H100s) on Kubernetes at a stealth datacenter company. Previously at [Weights & Biases](https://wandb.ai).
+ML infrastructure and AI systems engineer. Currently supporting GPU clusters (H100s) on Kubernetes at a stealth startup. Previously at [Weights & Biases](https://wandb.ai).
 
 ### What I'm working on
 
