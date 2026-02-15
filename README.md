@@ -1,6 +1,6 @@
 ## Hey, I'm Raphael
 
-ML infrastructure and AI systems engineer. Currently supporting GPU clusters (H100s) on Kubernetes at a stealth startup. Previously at [Weights & Biases](https://wandb.ai). MS in AI from Penn State, BS in Statistics from UCLA.
+ML infrastructure and AI solutions engineer. Currently supporting GPU clusters (H100s) on Kubernetes at a stealth startup. Previously at [Weights & Biases](https://wandb.ai). MS in AI from Penn State, BS in Statistics from UCLA.
 
 I like building things end-to-end — from multi-agent RAG pipelines to custom K8s operators to full-stack dashboards.
 
