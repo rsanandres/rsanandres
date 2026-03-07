@@ -13,7 +13,7 @@ I like building things end-to-end — from multi-agent RAG pipelines to custom K
 | **[Corium](https://github.com/rsanandres/corium)** | Kubernetes operator with 3 custom CRDs for automated metrics collection, threshold alerting, and a monitoring dashboard | Go, Kubebuilder, Prometheus, Grafana, Next.js |
 | **[JaxStats](https://github.com/rsanandres/jaxstats)** | Game performance analyzer with XGBoost ML scoring, 8-metric GPI breakdown, AI coaching, and live game overlays | FastAPI, XGBoost, React, Chart.js, Ollama |
 | **[Aphae](https://github.com/rsanandres/aphae)** | AI agent office simulation — procedurally generated personalities (Big Five), emergent relationships, LLM-driven conversations, and a RimWorld-inspired drama director | Godot 4, GDScript, Ollama |
-| **[vllm-playground](https://github.com/rsanandres/vllm-playground)** 🚧 | Privacy-first daily activity summarizer — ActivityWatch → QLoRA fine-tuned Llama on self-hosted vLLM → Obsidian daily notes | vLLM, PyTorch, QLoRA, PEFT, ActivityWatch, FastAPI |
+| **[Chronicle](https://github.com/rsanandres/chronicle)** 🚧 | Privacy-first daily activity summarizer — ActivityWatch → QLoRA fine-tuned Llama on self-hosted vLLM → Obsidian daily notes | vLLM, PyTorch, QLoRA, PEFT, ActivityWatch, FastAPI |
 
 ### Stack
 
